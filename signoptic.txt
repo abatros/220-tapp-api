@@ -1,0 +1,35 @@
+This is what I found:
+
+(1) http://www.kerquest.com/ a single page web site - no links - no products
+(2) kerquest registered in a little city in French Alpes capital: 160,000 Euros.
+(3) Kerquest seems to be a company with less that 5 employees, with some in Germany.
+
+(4) The owner Yann Boutant, has some interesting scientific publications:
+    https://www.researchgate.net/scientific-contributions/33151066_Yann_Boutant
+
+(5) He has also sharing some patents while working at Signoptic Technologies
+    The latest one 2018 with Arjo-Solutions (and Royal Canadian Mint!)
+    https://patents.justia.com/inventor/yann-boutant
+
+(6) The actual CTO for Kerquest is Gaël Rosset : https://www.linkedin.com/in/gaelrosset/
+    and in his profile: "Aztekam SAS and Kerquest SAS merge in December 2016"
+
+(7) from : http://www.arjo-solutions.com
+    https://www.linkedin.com/company/arjo-solutions/
+    https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=52298563
+
+    Arjo Solutions proposes DOCS (DOcument Certification by Signoptic)
+
+    Arjo Solutions develops Signoptic®, a revolutionary technology for
+    individual article level product authentication and identification
+    that secures goods to combat counterfeit and grey markets.
+
+
+CONCLUSIONS:
+  There are 3 companies: Kerquest, Aztekam, Signoptic and Arjo-solutions
+  with unclear relations.
+
+  The only company that shows real and consistent activity is Signoptic
+  based in Paris.
+
+  https://www.linkedin.com/showcase/signoptic-digital-unitary-authentication-technology/about/
